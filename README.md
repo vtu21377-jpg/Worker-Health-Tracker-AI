@@ -28,4 +28,8 @@ The system helps in detecting abnormal conditions and predicting heat exhaustion
 - Real-time monitoring in OLED Display
   ## 📸 Project Output
 
+  ## 📸 Project Output
+
+![Project Image]()
+
 
