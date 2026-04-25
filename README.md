@@ -30,6 +30,6 @@ The system helps in detecting abnormal conditions and predicting heat exhaustion
 
   ## 📸 Project Output
 
-![Project Image]()
+![Project Image](IMG_3848.jpeg)
 
 
